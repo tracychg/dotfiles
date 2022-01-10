@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tracycheungkasin@gmail.com
+	name = Tracy Cheung
